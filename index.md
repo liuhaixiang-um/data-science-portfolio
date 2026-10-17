@@ -1,4 +1,7 @@
-# LIU HAIXIANG — Data Science Portfolio
+---
+layout: page
+title: Data Science Portfolio
+---
 
 MSc student at the University of Macau, building practical skills in data
 analysis, reproducible research, and clear communication.
